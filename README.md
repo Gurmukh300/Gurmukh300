@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Gurmukh Singh 👋
+
 
 <!--
 **Gurmukh300/Gurmukh300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
