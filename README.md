@@ -14,7 +14,7 @@ List the technologies and tools you are familiar with or currently working with.
 - Frontend Development: HTML, CSS, React
 - Backend Development: Ruby on Rails, Flask
 - Databases: MongoDB, MySQL
-- Tools: Git, VS Code, Linix
+- Tools: Git, VS Code, Linux
 
 <!--
 **Gurmukh300/Gurmukh300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
