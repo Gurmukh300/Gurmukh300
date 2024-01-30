@@ -16,6 +16,12 @@ List the technologies and tools you are familiar with or currently working with.
 - Databases: MongoDB, MySQL
 - Tools: Git, VS Code, Linux
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/gurmukh300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Gurmukh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gurmukh-singh-38a1a4246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Gurmukh" height="30" width="40" /></a>
+</p>
+
 <!--
 **Gurmukh300/Gurmukh300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
